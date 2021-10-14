@@ -26,6 +26,11 @@
 <img src="https://user-images.githubusercontent.com/83383626/137323038-3c531f1b-119c-4332-bf68-9661f265f370.png" width="416px" height="529"  />
 
 ## Contato
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joao-vi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-vi/" height="30" width="40" /></a>
+</p>
 
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+
  
