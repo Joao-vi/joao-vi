@@ -19,9 +19,11 @@
 #### Leet Me Ask: Clique <a href="https://github.com/Joao-vi/letmeask-bootcamp-rocketseat">aqui. </a>
 <img src="https://user-images.githubusercontent.com/83383626/137322057-f295fc39-23d9-4d17-8d10-54ff1728f1f9.png" width="500px" height="250"  />
 
+#### ToDo Notes: Clique <a href="https://github.com/Joao-vi/To-do-Notes">aqui. </a>
+<img src="https://user-images.githubusercontent.com/83383626/137329672-3e673669-ce5d-4657-8818-5683e0f4edf7.png" width="980" height="500"  />
+
 #### WeatherApp : Clique <a href="https://github.com/Joao-vi/Weather-API">aqui. </a>
 <img src="https://user-images.githubusercontent.com/83383626/137323038-3c531f1b-119c-4332-bf68-9661f265f370.png" width="416px" height="529"  />
-
 
 
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
