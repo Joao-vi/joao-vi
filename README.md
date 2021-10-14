@@ -1,4 +1,4 @@
-## Olá, Bem Vindo! 👋 <br/> Desenvolvedor Front End React Js
+## Olá, Bem Vindo! 👋 <br/> Desenvolvedor Front End React Js                           
 <h2>Perfil</h2>
 <p>Tive meu primeiro contato com a programação em 2018, linguagem pascal e C para uso em microcontroladores.Em Abril de 2021 consegui me encontrar em algo que eu possa fazer por horas e horas, desde então estou na jornada de se tornar cada vez mais especialista em front-end usando: Typescript, React e suas mais variadas libs. </p>
 <h2>Projetos</h2>
@@ -25,10 +25,7 @@
 #### WeatherApp : Clique <a href="https://github.com/Joao-vi/Weather-API">aqui. </a>
 <img src="https://user-images.githubusercontent.com/83383626/137323038-3c531f1b-119c-4332-bf68-9661f265f370.png" width="416px" height="529"  />
 
+## Contato
 
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<div>
-  <a href="https://github.com/joao-vi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vi&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ 
