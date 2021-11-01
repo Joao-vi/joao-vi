@@ -11,7 +11,7 @@
 
 
 #### Questions4You: Clique <a href="https://github.com/Joao-vi/questions-app">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/139750533-825a151c-a3a0-4e6a-9e26-552f95d5eac8.png" width="500px" height="250"  />
+<img src="https://user-images.githubusercontent.com/83383626/139750533-825a151c-a3a0-4e6a-9e26-552f95d5eac8.png" width="650" height="350"  />
 
 
 
