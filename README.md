@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Oliveland](https://www.notion.so/Oliveland-Whitepaper-9289251a158e4237a5bcb9a80c7182ad#12ca08e984c74d03b56b592208737ea7)
 
-- 🌱 I’m currently learning: **NextJs, tailwind and web3**
+- 🌱 I’m currently learning: **NextJs, tailwind and TDD**
 
 - ⚡ Fun fact: **I started Computer Cience in 2018, but I quitted because I used to thought that it wasn't for me. Now I wake up everyday at 6 am to work as developer :X .**
 
