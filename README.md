@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **NextJs, tailwind and web3**
 
-- ⚡ Fun fact: **I started Computer Cience in 2018, but I quitted because I used thought that it wasn't for me. Now I wake up everyday at 6 am to work as developer :X .**
+- ⚡ Fun fact: **I started Computer Cience in 2018, but I quitted because I used to thought that it wasn't for me. Now I wake up everyday at 6 am to work as developer :X .**
 
 <p align="left">
 </p>
