@@ -1,42 +1,57 @@
-## Olá, Bem Vindo! 👋 <br/> Desenvolvedor Front End React Js                           
-<h2>Perfil</h2>
-<p>Tive meu primeiro contato com a programação em 2018, linguagem pascal e C para uso em microcontroladores.Em Abril de 2021 consegui me encontrar em algo que eu possa fazer por horas e horas, desde então estou na jornada de se tornar cada vez mais especialista em front-end usando: Typescript, React e suas mais variadas libs. </p>
-<h2>Projetos</h2>
- <div align="center" style="display: inline_block">
-  <img align="center" alt="Jv-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<h1 align="center">Hi 👋, I'm João</h1>
+<h3 align="center">I'm always looking for get 1% better every day.</h3>
 
+- 🔭 I’m currently working at [Oliveland](https://www.notion.so/Oliveland-Whitepaper-9289251a158e4237a5bcb9a80c7182ad#12ca08e984c74d03b56b592208737ea7)
 
-#### Questions4You: Clique <a href="https://github.com/Joao-vi/questions-app">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/139750533-825a151c-a3a0-4e6a-9e26-552f95d5eac8.png" width="650" height="350"  />
+- 🌱 I’m currently learning: **NextJs, tailwind and web3**
 
+- ⚡ Fun fact: **I started Computer Cience in 2018, but I quitted because I used thought that it wasn't for me. Now I wake up everyday at 6 am to work as developer :X .**
 
-
-#### DashboardGO: Clique <a href="https://github.com/Joao-vi/dashboard-go">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/137041336-8565a60c-4335-4a88-921e-d57e26347294.png" width="500px" height="250"  />
-
-#### My WalletDB: Clique <a href="https://github.com/Joao-vi/my-walletdb">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/133476525-874d2dbf-2cc3-4aa8-a642-79f6fc3b4da6.png" width="500px" height="250"  />
-
-
-#### Leet Me Ask: Clique <a href="https://github.com/Joao-vi/letmeask-bootcamp-rocketseat">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/137322057-f295fc39-23d9-4d17-8d10-54ff1728f1f9.png" width="500px" height="250"  />
-
-#### ToDo Notes: Clique <a href="https://github.com/Joao-vi/To-do-Notes">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/137329672-3e673669-ce5d-4657-8818-5683e0f4edf7.png" width="980" height="500"  />
-
-#### WeatherApp : Clique <a href="https://github.com/Joao-vi/Weather-API">aqui. </a>
-<img src="https://user-images.githubusercontent.com/83383626/137323038-3c531f1b-119c-4332-bf68-9661f265f370.png" width="416px" height="529"  />
-
-## Contato
 <p align="left">
-<a href="https://www.linkedin.com/in/joao-vi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-vi/" height="30" width="40" /></a>
 </p>
 
-   ![Snake animation](https://github.com/joao-vi/joao-vi/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Languages and Tools:</h3>
+<div align='center'>
+  <a  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
  
-
- 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true"
+      alt="chakraui"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+</div>
