@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">I'm always looking for get 1% better every day.</h3>
 
-- 🔭 I’m currently working at [Oliveland](https://www.notion.so/Oliveland-Whitepaper-9289251a158e4237a5bcb9a80c7182ad#12ca08e984c74d03b56b592208737ea7)
+- 🔭 I’m currently working at [ZOS](https://ten-tree-studios.gitbook.io/zos-whitepaper/IoWKOXUqzmHrPY3fZYzN/)
 
 - 🌱 I’m currently learning: **NextJs, tailwind and TDD**
 
