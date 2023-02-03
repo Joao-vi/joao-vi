@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center">I'm always looking for get 1% better every day.</h3>
 
-- 🔭 I’m currently working at [ZOS](https://ten-tree-studios.gitbook.io/zos-whitepaper/IoWKOXUqzmHrPY3fZYzN/)
 
 - 🌱 I’m currently learning: **NextJs, tailwind and TDD**
 
