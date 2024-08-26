@@ -2,12 +2,7 @@
 <h3 align="center">I'm always looking for get 1% better every day.</h3>
 
 
-- 🌱 I’m currently learning: **NextJs, tailwind and TDD**
 
-- ⚡ Fun fact: **I started Computer Cience in 2018, but I quitted because I used to thought that it wasn't for me. Now I wake up everyday at 6 am to work as developer :X .**
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align='center'>
